@@ -1,0 +1,95 @@
+
+/*styling the header*/
+
+.header {
+	/*background-color: #0b0c10;*/
+	background-image: repeating-linear-gradient(90deg,#0b0c10,#45a29e 80%,#0b0c10);
+	color:#fff;
+	height:120px;
+	font-family: "Lucida Sans Unicode";
+}
+
+/*styling on the name*/
+.name {
+	float:left;
+	padding:25px;
+	/*padding-left: 40px;*/
+	font-size: 44px;
+	color: #fff;
+}
+
+/*information is on the right side of the page in header*/
+.info {
+	/*font-family: "Comic Sans MS";*/
+	float:right;
+	padding:10px;
+}
+
+
+/*styling on middle section of the html page*/
+.main {
+	/*background-color: #0A1230;*/
+	background-image: repeating-linear-gradient(90deg,#0b0c10 ,#45a29e 80%,#0b0c10);
+	height:1050px;
+	color:#fff;
+	font-family: "Lucida Sans Unicode";
+}
+
+.education h2 {
+	padding:20px;
+	padding-left:40px;
+	float:left;
+}
+
+.education p {
+	padding-left:200px;
+}
+
+.ed2 {
+	padding-top:40px;
+}
+
+.training h2{
+	padding: 20px;
+	padding-left: 40px;
+	float:left;
+}
+
+.training p {
+	padding-top: 36px;
+	padding-left: 200px;
+}
+
+.project h2 {
+	padding: 20px;
+	padding-left: 40px;
+	float:left;	
+}
+
+.project p {
+	padding-top: 36px;
+	padding-left: 200px;	
+}
+
+.skills h2 {
+	padding: 20px;
+	padding-left: 40px;
+	float:left;		
+}
+
+
+.col1 {
+	float: left;
+	padding-top: 36px;
+	padding-left: 80px;
+}
+
+.col2 {
+	float:left;
+	padding-top: 36px;
+	padding-left: 60px;
+}
+
+.footer {
+	background-color: #0b0c10;
+}
